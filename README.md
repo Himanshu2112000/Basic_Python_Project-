@@ -197,6 +197,142 @@ Get the sum of all the prime numbers between 1 to 100?
 
 ![image](https://github.com/Himanshu2112000/Basic_Python_Project-/assets/164239242/e17669cd-ba10-4ef7-98b9-097804e2e4db)
 
+### Question 33
+Get the sum of all even numbers from 1 to 50?
+
+![image](https://github.com/Himanshu2112000/Basic_Python_Project-/assets/164239242/7e18e4ac-4630-424c-8fbb-fc125f54c209)
+
+## UDF: Arguments and Parameters
+
+UDF stands for User-Defined Function. It refers to a function that is defined by the user (programmer) rather than provided as part of the programming language's built-in functionality. In Python, as well as in many other programming languages, users can create their own functions to encapsulate specific tasks or pieces of code that they want to reuse multiple times within their programs.
+
+### Question 34
+Get the factorial of any user defined input value?
+
+![image](https://github.com/Himanshu2112000/Basic_Python_Project-/assets/164239242/57562525-f950-49e1-a8d8-ccff237e4b1f)
+
+### Question 35
+How many prime numbers and composite numbers are there from 1 to 100?
+
+![image](https://github.com/Himanshu2112000/Basic_Python_Project-/assets/164239242/5f81549f-a405-4e32-bf3e-5187d05ca958)
+
+### Question 36
+Create a UDF which gives the average of 4 random numbers.
+
+![image](https://github.com/Himanshu2112000/Basic_Python_Project-/assets/164239242/934135b3-4919-49a9-8994-6df7fa5aa908)
+
+### Question 37
+Create a UDF which gives the average of n number of values using with the keyword arguments?
+
+![image](https://github.com/Himanshu2112000/Basic_Python_Project-/assets/164239242/b2a378bb-5a6a-43d0-bffa-d9b198708f15)
+
+### Question 38
+Create a UDF which takes a username as an input and a password as an input and your favourite question as an input.
+#username should be the name for eg himanshu
+#password can be alphanumeric for captain@1123
+#What is your pet's name? Little
+
+![image](https://github.com/Himanshu2112000/Basic_Python_Project-/assets/164239242/7d9e8989-d55f-4920-a112-c31afdc62024)
+
+## Lambda Function:
+A lambda function, also known as an anonymous function or lambda expression, is a small, inline function defined using the lambda keyword in Python.They are typically used when you need a simple function for a short period of time and don't want to define a separate function using the def keyword.
+
+### QUestion 39
+Using the lambda, you have to get the floor value of each of the value given in the original list?
+
+![image](https://github.com/Himanshu2112000/Basic_Python_Project-/assets/164239242/4ed5a774-c578-48d5-abcb-8e342934ccee)
+
+### Question 40
+Get those even values which are greater than 50 from the list using lambda function?
+
+![image](https://github.com/Himanshu2112000/Basic_Python_Project-/assets/164239242/c55daacb-add0-4510-810d-775f8606dd7f)
+
+### Question 41
+create a UDF which gives a sorted list as per their employee ids?
+
+![image](https://github.com/Himanshu2112000/Basic_Python_Project-/assets/164239242/a0adf2cd-8031-4d2f-a30a-f48dbbafb9e7)
+
+## List comprehension
+List comprehension is a concise way to create lists in Python by applying an expression to each item in an iterable. It allows you to generate a new list based on an existing iterable (such as a list, tuple, or range) with minimal code.
+
+### Question 42
+From the given list , get the data and add them into a new list after:
+#multiplying them with 1000 with numbers which are less than 100.
+#multiplying them with 100 with numbers which are greater than equal to 100.
+
+![image](https://github.com/Himanshu2112000/Basic_Python_Project-/assets/164239242/f9df0515-7d15-46c3-bff9-74b4ccfd0e9c)
+
+### Question 43
+Given a list of strings, create a list comprehension to generate a new list containing the lengths of those strings?
+
+![image](https://github.com/Himanshu2112000/Basic_Python_Project-/assets/164239242/66f9cf17-cbf7-4285-843d-17638574979f)
+
+### QUestion 44
+Create a list comprehension to generate a list of only even numbers from 1 to 20?
+
+![image](https://github.com/Himanshu2112000/Basic_Python_Project-/assets/164239242/963f0361-e53e-475d-b576-23dae5c957e0)
+
+### Question 45
+ Create a list comprehension to generate a list of squares of numbers from 1 to 10?
+
+ ![image](https://github.com/Himanshu2112000/Basic_Python_Project-/assets/164239242/54cb9f5c-32a3-4f1d-9750-4ae6fcab0f4a)
+
+## Class Creation
+Class functions/methods are called using dot notation (object.method()), where object is an instance of the class. They operate on the data stored in the object's attributes and provide behavior specific to the class.
+
+### QUestion 46
+How can you define a simple class in Python?
+
+![image](https://github.com/Himanshu2112000/Basic_Python_Project-/assets/164239242/7fb82746-f517-4e72-9a15-86fd3382f27c)
+
+### Question 47
+Create a class Rectangle with attributes width and height. Implement methods to calculate the area and perimeter of the rectangle?
+
+![image](https://github.com/Himanshu2112000/Basic_Python_Project-/assets/164239242/22247b08-8cb5-4928-8486-64a683ac36cb)
+
+## Class Inheritance:
+Class inheritance in Python refers to the mechanism by which one class (the subclass or child class) can inherit attributes and methods from another class (the superclass or parent class). This inheritance allows the subclass to reuse code from the superclass, promoting code reusability, organization, and extensibility.
+
+### Question 48
+What is class inheritance, and how can you create a subclass in Python?
+
+![image](https://github.com/Himanshu2112000/Basic_Python_Project-/assets/164239242/07dc8801-7fa3-4407-a598-068bece55460)
+
+### Question 49
+How can you override a method from the parent class in the subclass?
+
+![image](https://github.com/Himanshu2112000/Basic_Python_Project-/assets/164239242/93bd7f49-a2c3-4ba0-a326-1b03760e7cbd)
+
+### Question 50 
+Can a subclass have its own attributes and methods in addition to inheriting from the parent class?
+
+![image](https://github.com/Himanshu2112000/Basic_Python_Project-/assets/164239242/bf86f9ca-a20a-4c6f-9852-b8422842807c)
+
+### Question 51
+Create a base class Animal with a method speak(). Create derived classes Dog and Cat inheriting from Animal and override the speak() method in each derived class to print the sound of a dog and a cat, respectively?
+
+![image](https://github.com/Himanshu2112000/Basic_Python_Project-/assets/164239242/70d3686c-bc0c-428d-a6d8-58bda17bed8d)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
