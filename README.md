@@ -113,6 +113,111 @@ Finding the sum of elements in a tuple
 
 ![image](https://github.com/Himanshu2112000/Basic_Python_Project-/assets/164239242/0d8d2ca3-7851-434c-bf2e-4591d7efc271)
 
+### Question 17 
+Finding the sum of elements in a set?
+
+![image](https://github.com/Himanshu2112000/Basic_Python_Project-/assets/164239242/0550e229-c1bd-40a2-bf0b-8565200afca3)
+
+### Question 18 
+Finding the length of a string?
+
+![image](https://github.com/Himanshu2112000/Basic_Python_Project-/assets/164239242/2ae6e5da-e8d5-4276-8f57-b2b40aedcb2a)
+
+### Question 19
+Finding the length of a dictionary (returns the number of key-value pairs)
+
+![image](https://github.com/Himanshu2112000/Basic_Python_Project-/assets/164239242/e42748f5-449c-4b69-85b9-2d9c15683ac1)
+
+### Question 20 
+Finding the length of a tuple?
+
+![image](https://github.com/Himanshu2112000/Basic_Python_Project-/assets/164239242/216b455c-2ea6-4ad9-83eb-47933fc86fb3)
+
+### Question 21
+Finding the maximum character based on their ASCII values?
+
+![image](https://github.com/Himanshu2112000/Basic_Python_Project-/assets/164239242/49326eaf-259a-4594-a307-c73facecc5df)
+
+### Question 22
+finding the maximum string based on their lengths
+
+![image](https://github.com/Himanshu2112000/Basic_Python_Project-/assets/164239242/d9b28663-2e4a-41df-967c-13f70baee147)
+
+### QUestion 23
+Finding the maximum element from multiple arguments?
+
+![image](https://github.com/Himanshu2112000/Basic_Python_Project-/assets/164239242/b51d1274-df51-449c-9786-6984ca3118c4)
+
+### Question 24
+Finding the maximum element from a set?
+
+![image](https://github.com/Himanshu2112000/Basic_Python_Project-/assets/164239242/0e808022-be67-43e8-a336-e2cbba5d742b)
+
+
+## Looping statements ( While and for looping)
+The for loop is used for iterating over a sequence of items, while the while loop is used for executing code based on a condition that can change during execution. Both types of loops are essential constructs in Python programming and provide different ways to control the flow of execution in your code.
+
+### Question 25 
+Print only the even numbers present in the given list?
+
+![image](https://github.com/Himanshu2112000/Basic_Python_Project-/assets/164239242/f3df009f-5e99-4037-bf25-6d47690bba67)
+
+### Question 26
+Print the table of 4 using while loop?
+
+![image](https://github.com/Himanshu2112000/Basic_Python_Project-/assets/164239242/5241af65-ef8f-4ff8-9ca1-8384e775edd0)
+
+### Question 27 
+print the even numbers till 100 using while numbers?
+
+![image](https://github.com/Himanshu2112000/Basic_Python_Project-/assets/164239242/61ae7b4c-fedf-4f5d-815f-86266b0d59a8)
+
+### Question 28
+Print only the odd numbers from the given list using the for loop?
+
+![image](https://github.com/Himanshu2112000/Basic_Python_Project-/assets/164239242/e2c6e631-6294-4cb1-921f-179d55dbe156)
+
+### Question 29
+Factorial using the for loop?
+
+![image](https://github.com/Himanshu2112000/Basic_Python_Project-/assets/164239242/1aab6811-516a-4f76-aa96-00edaaec44fe)
+
+### Question 30
+Display only the numeric values from the list using while loop?
+
+![image](https://github.com/Himanshu2112000/Basic_Python_Project-/assets/164239242/16d2bdb1-fce4-441c-8681-3d5e5ab144e8)
+
+### Question 31
+Take a input number from the user and check whether it is prime or not?
+
+![image](https://github.com/Himanshu2112000/Basic_Python_Project-/assets/164239242/593b679c-5d29-4e85-8220-58d63711f3f2)
+
+### Question 32
+Get the sum of all the prime numbers between 1 to 100?
+
+![image](https://github.com/Himanshu2112000/Basic_Python_Project-/assets/164239242/e17669cd-ba10-4ef7-98b9-097804e2e4db)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
 
 
 
