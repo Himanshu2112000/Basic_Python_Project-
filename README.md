@@ -1,7 +1,5 @@
 # Basic_Python_Project-
 A curated collection of fundamental Python scripts and examples covering core concepts such as data structures, control flow, functions, and more. Ideal for beginners and those seeking foundational understanding, offering clear and concise code snippets for easy learning and reference."
-# Python:- 
-A comprehensive introduction to Python programming language covering fundamental concepts including variables, data types, control structures, functions, and basic file handling. Designed for beginners, this repository provides clear explanations and practical examples to kickstart your journey into Python programming."
 # Python concepts, 
 1- Introduction to Python
 2- Variables and Data Types
@@ -18,6 +16,9 @@ A comprehensive introduction to Python programming language covering fundamental
 13-List Comprehensions
 14-Built-in Functions and Methods
 15-Basic File Operations
+
+# Python:- 
+A comprehensive introduction to Python programming language covering fundamental concepts including variables, data types, control structures, functions, and basic file handling. Designed for beginners, this repository provides clear explanations and practical examples to kickstart your journey into Python programming."
 
 ## String Indexing:
 String indexing provides a powerful way to manipulate and access individual characters or substrings within a string in 
